@@ -122,6 +122,7 @@ main{
 .projectcontainer{
     position: relative;
     grid-column: span 1;
+    
 }
 
 .projectcontainer img{
